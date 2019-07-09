@@ -8,7 +8,7 @@ pipeline {
     }
     stage('ssw') {
       steps {
-        echo 'hi'
+        echo 'hi ssw'
       }
     }
   }
